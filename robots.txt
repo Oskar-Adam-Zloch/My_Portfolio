@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Oskar-Adam-Zloch.github.io/My_Portfolio/sitemap.xml
